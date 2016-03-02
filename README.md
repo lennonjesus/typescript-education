@@ -22,6 +22,7 @@
 
 ### Books
 * [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript)
+* [Mastering TypeScript](https://www.packtpub.com/web-development/mastering-typescript)
 
 ### Classes
 * [Udemy - Introduction to TypeScript](https://www.udemy.com/typescript/)
