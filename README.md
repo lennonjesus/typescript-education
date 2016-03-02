@@ -20,6 +20,8 @@
 * [Github: Angular2 + TypeScript: Seed Project (@ghpabs)](https://github.com/ghpabs/angular2-seed-project) Fully automated development workflow using Gulp.
 * [Github: Angular2 Starter for TypeScript (Antony Budianto)](https://github.com/antonybudianto/angular2-starter) Complete Gulp Workflow
 
+### Live
+* [TypeScript Playgroung](http://www.typescriptlang.org/Playground)
 ### Books
 * [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript)
 * [Mastering TypeScript](https://www.packtpub.com/web-development/mastering-typescript)
