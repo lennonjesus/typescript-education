@@ -22,6 +22,7 @@
 
 ### Live
 * [TypeScript Playgroung](http://www.typescriptlang.org/Playground)
+
 ### Books
 * [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript)
 * [Mastering TypeScript](https://www.packtpub.com/web-development/mastering-typescript)
