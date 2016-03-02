@@ -8,7 +8,7 @@
 ### Introduction
 * [Official TypeScript Quick Start](http://www.typescriptlang.org/Tutorial)
 * [Official TypeScript Handbook](http://www.typescriptlang.org/Handbook)
-* [Official TypeScript Samples](http://www.typescriptlang.org/Samples)
+* [Official TypeScript Samples](https://github.com/Microsoft/TypeScriptSamples)
 
 ### Language Specification
 * [TypeScript Language Specification](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md)
