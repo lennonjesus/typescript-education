@@ -9,6 +9,7 @@
 * [Official TypeScript Quick Start](http://www.typescriptlang.org/Tutorial)
 * [Official TypeScript Handbook](http://www.typescriptlang.org/Handbook)
 * [Official TypeScript Samples](https://github.com/Microsoft/TypeScriptSamples)
+* [TypeScript Reserved Words](https://github.com/Microsoft/TypeScript/blob/11f2216dc639d7661214b5bdf99f5fc4f03a5785/doc/spec.md#221-reserved-words)
 
 ### Language Specification
 * [TypeScript Language Specification](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md)
