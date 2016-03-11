@@ -38,6 +38,10 @@
 ### Social Media
 * [Gitter Channel](https://gitter.im/Microsoft/TypeScript)
 
+### Tooling
+* [Atom TypeScript](https://github.com/TypeStrong/atom-typescript)
+* [TypeScript Plugin for Sublime Text](https://github.com/Microsoft/TypeScript-Sublime-Plugin)
+
 ### Other useful lists
 * [Angular Education](https://github.com/timjacobi/angular-education)
 * [Angular 2 Education ](https://github.com/timjacobi/angular2-education)
