@@ -25,6 +25,7 @@
 * [TypeScript Playgroung](http://www.typescriptlang.org/Playground)
 
 ### Books
+* [TypeScript Deep Dive](http://basarat.gitbooks.io/typescript/) ([.mobi](https://www.gitbook.com/download/mobi/book/basarat/typescript) | [.epub](https://www.gitbook.com/download/epub/book/basarat/typescript) | [.pdf](https://www.gitbook.com/download/pdf/book/basarat/typescript))
 * [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript)
 * [Mastering TypeScript](https://www.packtpub.com/web-development/mastering-typescript)
 
