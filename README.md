@@ -1,4 +1,4 @@
-# ![TypeScript](http://www.typescriptlang.org/content/images/logo_small.png)
+# ![TypeScript](https://cdn.rawgit.com/Microsoft/TypeScript/master/doc/logo.svg)
 
 #### *A list of helpful material to start learning [TypeScript](http://www.typescriptlang.org/)*
 
