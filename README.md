@@ -38,6 +38,10 @@
 ### TypeScript Definitions
 * [DefinitelyTyped](http://definitelytyped.org/tsd/)
 
+### Discussions
+* [StackOverflow - What is TypeScript and why would I use it in place of JavaScript?](http://stackoverflow.com/questions/12694530/what-is-typescript-and-why-would-i-use-it-in-place-of-javascript/12694578#12694578)
+* [StackOverflow - What is TypeScript and why would I use it in place of JavaScript? (complementary answer)](http://stackoverflow.com/questions/12694530/what-is-typescript-and-why-would-i-use-it-in-place-of-javascript/35048303#35048303)
+
 ### Social Media
 * [Gitter Channel](https://gitter.im/Microsoft/TypeScript)
 
