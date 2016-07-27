@@ -54,7 +54,7 @@
 * [Angular 2 Education ](https://github.com/timjacobi/angular2-education)
 
 ##### Contribution
-* Contribuitions are welcome!
+* Contributions are welcome!
 
 ###### LICENSE
 [MIT](LICENSE)
