@@ -43,7 +43,8 @@
 * [StackOverflow - What is TypeScript and why would I use it in place of JavaScript? (complementary answer)](http://stackoverflow.com/questions/12694530/what-is-typescript-and-why-would-i-use-it-in-place-of-javascript/35048303#35048303)
 
 ### Social Media
-* [Gitter Channel](https://gitter.im/Microsoft/TypeScript)
+* [![Join the chat at https://gitter.im/Microsoft/TypeScript](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Microsoft/TypeScript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 ### Tooling
 * [Atom TypeScript](https://github.com/TypeStrong/atom-typescript)
