@@ -32,6 +32,7 @@
 
 ### Classes
 * [Udemy - Introduction to TypeScript](https://www.udemy.com/typescript/)
+* [Udemy - Understanding TypeScript](https://www.udemy.com/understanding-typescript/)
 * [Pluralsight - TypeScript Fundamentals (by Dan Wahlin and John Papa)](https://www.pluralsight.com/courses/typescript)
 * [Pluralsight - TypeScript In-depth](https://www.pluralsight.com/courses/typescript-in-depth)
 
